@@ -58,11 +58,17 @@ Theft or mistake: the mistaken loss of information, such as a clerical error, or
 ## Annual Number of Washingtonians Affected by Data Breaches Since 2016
 ![Screenshot 2024-06-16 at 1 38 42 PM](https://github.com/donmarcolaureano/washington_state_data_breaches/assets/140132043/67b23acd-4ba0-475b-a728-3970df103e36)
 
+<a href="https://github.com/donmarcolaureano/washington_state_data_breaches/blob/main/WA%20AOG%20Data%20Break%20Report%202023.pdf">Source</a>
 
 ## Data Breaches by Cause
 ![Screenshot 2024-06-16 at 1 32 29 PM](https://github.com/donmarcolaureano/washington_state_data_breaches/assets/140132043/487a8816-cd95-47c6-9cc9-c207aa44ab7a)
 
+<a href="https://github.com/donmarcolaureano/washington_state_data_breaches/blob/main/WA%20AOG%20Data%20Break%20Report%202023.pdf">Source</a>
+
+
 ## Types of Personal Information Exposed
 ![Screenshot 2024-06-16 at 1 37 41 PM](https://github.com/donmarcolaureano/washington_state_data_breaches/assets/140132043/ee17e975-0938-46db-aa23-252fc71a0876)
+
+<a href="https://github.com/donmarcolaureano/washington_state_data_breaches/blob/main/WA%20AOG%20Data%20Break%20Report%202023.pdf">Source</a>
 
 
